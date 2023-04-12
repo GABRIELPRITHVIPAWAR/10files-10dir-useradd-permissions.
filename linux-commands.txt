@@ -1,0 +1,78 @@
+pwd
+touch
+ls
+rm
+mkdir
+rmdir
+rm -rf
+rm -rf *
+cd
+cd ..
+clear
+history
+touch {1..10}.txt
+ls | grep 
+mx
+cp
+ls -lart
+echo " "
+cat
+echo " " > ____.txt
+whoami
+ls | head -n2
+ls | tail -n2
+sort
+date
+cal
+bc
+tar -cvzf file.tar.gz test/
+tar -xvzf file.tar.gz test/
+df -h
+free -m
+top
+htop
+ps aux
+exit
+sleep
+sudo
+uniq
+logout
+echo motning | tr r s
+vi 
+getent group | grep
+groupadd
+useradd
+usermod -aG group user
+chmod a=wrx,g=wr,o=r file.txt or directory 
+chown user:group file.txt or directory
+ll
+ifconfig
+apt install
+ping
+curl
+curl -i
+telnet
+nslookup
+dig
+netstat
+netstat tunlp
+traceroute
+lsblk
+sed -i -e 's+ + +g' .txt
+git clone
+git add .
+git status
+git branch
+git commit -m
+git push origin
+git pull origin
+git init
+git checkout
+git checkout -b
+git branch --delete 
+git branch -D
+echo " " | tee -a
+git tag
+git restore --staged
+git revert
+git --merge
